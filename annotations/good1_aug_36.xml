@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>good1_aug_36.jpg</filename>
+	<path>C:\Users\Kavya M\Downloads\Data_Augmentation_Tool\Data_augmentation\all_images\good1_aug_36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>224</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

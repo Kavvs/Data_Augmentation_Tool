@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>defected5_aug_39.jpg</filename>
+	<path>C:\Users\Kavya M\Downloads\Data_Augmentation_Tool\Data_augmentation\all_images\defected5_aug_39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>creased_bolts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>48</ymin>
+			<xmax>217</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
