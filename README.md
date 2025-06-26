@@ -1,6 +1,6 @@
 # 🔍 Defect Detection using YOLOv8
 
-This project is an AI-powered solution to automatically detect **defects in visual assets** (such as machine parts, industrial components, or manufactured products) using the YOLOv8 object detection framework.
+This project is an AI-powered solution to automatically detect **defects in visual assets** (such as machine parts, industrial components, or manufactured products) using the deep learning neural networks and  YOLOv8 object detection framework.
 
 Unlike generic classification tools, this system precisely **localizes defects** within the image and distinguishes them from "good" parts using bounding boxes. This is especially valuable in quality control pipelines where accuracy, speed, and transparency are critical.
 
